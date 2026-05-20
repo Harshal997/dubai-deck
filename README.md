@@ -1,36 +1,140 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Dubai Mall — Interactive Sales Experience
 
-## Getting Started
+An immersive cinematic sales deck built to showcase Dubai Mall as a global destination for luxury retail, entertainment, sponsorships, and large-scale experiential events.
 
-First, run the development server:
+Designed as a modern browser-based presentation experience inspired by luxury brands, Digideck storytelling, and premium interactive product design.
+
+---
+
+## Live Demo
+
+[Live Site]
+
+---
+
+## Overview
+
+This project reimagines how large destination properties present themselves to prospective tenants, sponsors, event partners, and global brands.
+
+Instead of relying on fragmented PDFs, videos, and static presentations, this experience delivers a unified interactive storytelling platform that communicates scale, energy, opportunity, and commercial value through cinematic visuals, motion, immersive layouts, and responsive interactions.
+
+---
+
+## Features
+
+- Cinematic hero experience with immersive video storytelling
+- Luxury-inspired UI and typography system
+- Interactive non-linear navigation
+- Responsive design optimized for desktop and tablet
+- Animated statistics and experiential storytelling
+- Dedicated sections for:
+  - Retail & Luxury
+  - Entertainment & Attractions
+  - Events & Brand Activations
+  - AI-powered experiential concepts
+- Smooth motion and transitions using Framer Motion
+- Optimized image loading and lazy loading
+- Performance-focused architecture
+- Modular section-based code structure for future expansion
+
+---
+
+## AI Integration
+
+AI tools were used throughout the creative process to accelerate ideation, concept generation, and experiential visual design.
+
+This includes:
+- AI-assisted concept exploration
+- AI-generated activation imagery
+- AI-assisted creative direction workflows
+- AI-assisted frontend development acceleration
+
+The “AI-Powered Brand Activations” section explores future experiential concepts for immersive retail and entertainment environments.
+
+---
+
+## Tech Stack
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- React CountUp
+- Vercel
+
+---
+
+## Design Direction
+
+The experience was inspired by:
+- Apple
+- Tesla
+- Hermès
+- Digideck interactive presentations
+- Disney / Universal destination storytelling
+- Luxury experiential marketing platforms
+
+The visual direction focuses on:
+- cinematic pacing
+- premium minimalism
+- immersive storytelling
+- large-scale commercial energy
+- restrained motion design
+
+---
+
+## Performance
+
+The project was optimized for:
+- Lighthouse performance
+- reduced hydration cost
+- lazy loading
+- optimized imagery
+- smooth rendering
+- responsive motion behavior
+
+---
+
+## Project Structure
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+src/
+ ├── app/
+ ├── components/
+ ├── sections/
+ ├── styles/
+ └── lib/
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Setup Instructions
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm install
+npm run dev
+```
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## Deployment
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The project is deployed using Vercel.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## Future Expansion
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The architecture was intentionally designed to support future expansion into:
+- Leasing modules
+- Sponsorship experiences
+- Venue-specific presentations
+- Interactive event booking flows
+- Personalized sales experiences
+- AI-assisted audience targeting
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## Author
+
+Built by [YOUR NAME]
