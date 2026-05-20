@@ -56,40 +56,6 @@ export default function Hero() {
           }}
           className="mt-8 flex flex-wrap  gap-8 py-1 px-2 rounded-l-sm"
         >
-          {/* <div>
-            <div className="flex">
-              <CountUp
-                end={100}
-                duration={3}
-                className="text-3xl font-semibold md:text-4xl"
-              />
-              <p className="text-3xl font-semibold md:text-4xl">M+</p>
-            </div>
-            <p className="mt-1 text-sm uppercase tracking-widest text-white/60">
-              Annual Visitors
-            </p>
-          </div>
-
-          <div>
-            <div className="flex">
-              <CountUp
-                end={1200}
-                duration={3}
-                className="text-3xl font-semibold md:text-4xl"
-              />
-              <p className="text-3xl font-semibold md:text-4xl">+</p>
-            </div>
-            <p className="mt-1 text-sm uppercase tracking-widest text-white/60">
-              Retail Stores
-            </p>
-          </div> */}
-
-          {/* <div>
-            <p className="text-3xl font-semibold md:text-4xl">Global</p>
-            <p className="mt-1 text-sm uppercase tracking-widest text-white/60">
-              Luxury Destination
-            </p>
-          </div> */}
         </motion.div>
 
         <motion.button
