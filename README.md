@@ -8,7 +8,7 @@ Designed as a modern browser-based presentation experience inspired by luxury br
 
 ## Live Demo
 
-[Live Site]
+[Live Site] https://dubai-deck.vercel.app/
 
 ---
 
